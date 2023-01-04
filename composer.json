@@ -1,0 +1,17 @@
+{
+    "name": "jazal/bienesraices",
+    "description": "Proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "JazaelRivas",
+            "email": "80536633+JazaelRivas@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "App\\" : "./classes"
+        }
+    }
+}
